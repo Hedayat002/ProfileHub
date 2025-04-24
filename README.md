@@ -34,8 +34,11 @@ Deployment: Vercel / Netlify
 Clone the repo
 
 Set up .env (NextAuth, DB)
-
-Run npm install && npm run dev
+```
+npm install 
+&&
+npm run dev
+```
 
 Why Contribute?
 Great for beginners learning Next.js + Auth!
