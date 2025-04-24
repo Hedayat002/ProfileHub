@@ -8,37 +8,40 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ![generate](https://github.com/user-attachments/assets/70d275e6-f68a-49b2-b6a1-5c560ae1d116)
 ## Handle - user links page
 ![handle](https://github.com/user-attachments/assets/1a79d17a-a58e-4cfd-84a8-3a969d1b4240)
+## Description 
+ProfileHub - A Modern Linktree Clone 🌟
+ProfileHub is a customizable, open-source alternative to Linktree, allowing users to create a sleek landing page with all their important links in one place. Built with Next.js, NextAuth.js, Tailwind CSS, and MongoDB, it supports user authentication, dynamic link management, and responsive design.
 
+✨ Key Features
+✅ User Authentication (Google/GitHub/Email)
+✅ Customizable Profile Pages (Bio, Social Links, Themes)
+✅ Link Analytics (Track clicks & visits)
+✅ Mobile-Friendly UI (Tailwind CSS)
+✅ Database Support (MongoDB / Firebase)
 
-First, run the development server:
+🚀 Tech Stack
+Frontend: Next.js, Tailwind CSS
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Backend: Next.js API Routes
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Auth: NextAuth.js
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Database: MongoDB (or Firebase)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Deployment: Vercel / Netlify
 
-## Learn More
+📌 How to Use
+Clone the repo
 
-To learn more about Next.js, take a look at the following resources:
+Set up .env (NextAuth, DB)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Run npm install && npm run dev
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Why Contribute?
+Great for beginners learning Next.js + Auth!
 
-## Deploy on Vercel
+Easy to extend (add themes, payments, etc.)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+MIT Licensed – use freely!
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+📥 Star ⭐ & Fork to support!
