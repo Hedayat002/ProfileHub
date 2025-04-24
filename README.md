@@ -2,6 +2,12 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+## Home Page
+![homepage](https://github.com/user-attachments/assets/627e44f2-8e93-40c5-b652-69ad5d7c997a)
+## Generate page
+![generate](https://github.com/user-attachments/assets/70d275e6-f68a-49b2-b6a1-5c560ae1d116)
+## Handle - user links page
+![handle](https://github.com/user-attachments/assets/1a79d17a-a58e-4cfd-84a8-3a969d1b4240)
 
 
 First, run the development server:
