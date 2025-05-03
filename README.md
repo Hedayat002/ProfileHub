@@ -26,7 +26,7 @@ Backend: Next.js API Routes
 
 Auth: NextAuth.js
 
-Database: MongoDB (or Firebase)
+Database: MongoDB 
 
 Deployment: Vercel / Netlify
 
