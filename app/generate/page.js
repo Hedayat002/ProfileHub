@@ -27,7 +27,7 @@ const Generate = () => {
     // else {
     //   handlechange ()
     // }
-}, [])
+}, [router, session])
 
   const handlechange = (index,link,linktext) => {
     setLinks(initialLinks => {

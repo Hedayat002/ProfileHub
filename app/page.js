@@ -68,9 +68,9 @@ export default function Home() {
     <main>
       <section className="bg-[#254f1a] min-h-[120vh] md:h-[500px] pb-16 md:pb-20 ">
         <div className="container mx-auto px-4 py-12 ">
-          <div className="flex flex-col lg:grid lg:grid-cols-2 gap-8 md:gap-12 items-center">
+          <div className="flex flex-col lg:grid lg:grid-cols-2 gap-8 md:gap-12 items-center    ">
             {/* Left Content */}
-            <div className=" flex flex-col gap-4 md:gap-6 text-center lg:text-left md:mt-0 mt-[100px]">
+            <div className=" flex flex-col gap-4 md:gap-6 text-center lg:text-left  mt-20 md:mt-24   ">
               <h1 className="text-[#d2e823] font-bold text-3xl sm:text-4xl lg:text-5xl leading-tight">
                 Everything you are.<br />
                 In one, simple link in bio.
