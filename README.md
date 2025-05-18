@@ -2,35 +2,61 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+## Home Page
+![homepage](https://github.com/user-attachments/assets/627e44f2-8e93-40c5-b652-69ad5d7c997a)
+## Generate page
+![generate](https://github.com/user-attachments/assets/70d275e6-f68a-49b2-b6a1-5c560ae1d116)
+## Handle - user links page
+![handle](https://github.com/user-attachments/assets/1a79d17a-a58e-4cfd-84a8-3a969d1b4240)
+## Description 
+ProfileHub - A Modern Linktree Clone 🌟
+ProfileHub is a customizable, open-source alternative to Linktree, allowing users to create a sleek landing page with all their important links in one place. Built with Next.js, NextAuth.js, Tailwind CSS, and MongoDB, it supports user authentication, dynamic link management, and responsive design.
 
-```bash
+✨ Key Features
+✅ User Authentication (Google/GitHub/Email)
+✅ Customizable Profile Pages (Bio, Social Links, Themes)
+✅ Link Analytics (Track clicks & visits)
+✅ Mobile-Friendly UI (Tailwind CSS)
+✅ Database Support (MongoDB / Firebase)
+
+🚀 Tech Stack
+Frontend: Next.js, Tailwind CSS
+
+Backend: Next.js API Routes
+
+Auth: NextAuth.js
+
+Database: MongoDB 
+
+Deployment: Vercel / Netlify
+
+📌 How to Use
+Clone the repo
+
+Set up .env (NextAuth, DB)
+```
+npm install 
+&&
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Why Contribute?
+Great for beginners learning Next.js + Auth!
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Easy to extend (add themes, payments, etc.)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+MIT License
 
-## Learn More
+Copyright (c) 2025 [Hedayat Ali]
 
-To learn more about Next.js, take a look at the following resources:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+[... full license continues ...]
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+📥 Star ⭐ & Fork to support!
